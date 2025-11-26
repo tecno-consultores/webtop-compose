@@ -1,0 +1,22 @@
+services:
+  webtop:
+    image: lscr.io/linuxserver/webtop:ubuntu-xfce
+    container_name: webtop
+    hostname: webtop
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Caracas
+      - TITLE=vdi
+      - DISABLE_IPV6=true
+      - SELKIES_UI_TITLE=vdi
+      - SELKIES_UI_SHOW_LOGO=false
+    volumes:
+      - ./config:/config
+    ports:
+      - 4000:3000
+      - 4001:3001
+      - 8082:8082
+    shm_size: "1gb"
+    restart: unless-stopped
+    pull_policy: always
