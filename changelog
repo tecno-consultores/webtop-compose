@@ -1,0 +1,35 @@
+commit 1b228974bde60b6b1f2f78fbb57b24e4fc0a5015 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Mon Dec 29 21:00:24 2025 -0400
+
+    * script para instalar paquetes dentro de webtop
+
+commit 1f5425b827ff2ba2b543201829fe512f97874624 (tag: v1.0)
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Wed Nov 26 11:24:39 2025 -0400
+
+    Add initial README for Webtop-compose project
+
+commit 3d7285fca128009cf5bae4cf9a86cfd4690b455c
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Wed Nov 26 11:22:24 2025 -0400
+
+    Add GNU General Public License v2
+
+commit accdec0b0a84f4c7fe310870a9794b6f12186317
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Wed Nov 26 11:22:01 2025 -0400
+
+    Create COPYING
+
+commit 0b8a63aac49797927d93e5ed3d953957146eba81
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Wed Nov 26 11:21:23 2025 -0400
+
+    Add Jesús Palencia to AUTHORS file
+
+commit 263bc198578f67c5dc59c785144b8e151d772210
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Wed Nov 26 11:19:46 2025 -0400
+
+    * primer commit
